@@ -478,7 +478,7 @@ plt.show()
 
 
     
-![png](output_10_1.png)
+![png](images/output_10_1.png)
     
 
 
@@ -821,7 +821,7 @@ for feature, corr_val in target_corr.items():
 
 
     
-![png](output_23_1.png)
+![png](images/output_23_1.png)
     
 
 
@@ -883,7 +883,7 @@ plt.show()
 
 
     
-![png](output_25_1.png)
+![png](images/output_25_1.png)
     
 
 
@@ -917,7 +917,7 @@ plt.show()
 
 
     
-![png](output_27_1.png)
+![png](images/output_27_1.png)
     
 
 
@@ -989,7 +989,7 @@ plt.show()
 
 
     
-![png](output_31_1.png)
+![png](images/output_31_1.png)
     
 
 
@@ -1014,7 +1014,7 @@ plt.show()
 
 
     
-![png](output_33_1.png)
+![png](images/output_33_1.png)
     
 
 
